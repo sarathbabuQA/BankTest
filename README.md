@@ -1,4 +1,4 @@
-"Automation Framework set-up"
+"Automation Framework set-up" (Please click on "Code" tab for better visibility)
 Download and Install Java 17 JRE/JDK or latest version.       (https://www.java.com/download/ie_manual.jsp)
 Download and Install Eclipse 4.25(200-09) or latest version.  (https://projects.eclipse.org/projects/eclipse/releases/4.27.0)
 Download and Install Maven 3.8.8 or latest version.           (https://maven.apache.org/download.cgi)(go for Binary zip file)
