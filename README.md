@@ -13,3 +13,4 @@ All 10 steps are Done. *BooooM* Your Automation Framework set-up is ready to go.
 "Project work"
 Create/Develop test data files,properties file,.java files,.feature files in your project as per requirements.
 Run the project(play icon buttons) and see resultent reports at end push the eclipse project repository to GitHub repository. 
+To run this project in your system,first complete "Automation framework set-up" and clone the github repository into your eclipse. 
